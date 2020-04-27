@@ -1,0 +1,10 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";"PROD_ID";"SF_SKU";"SPICEPREFIX";
+"1";"0.1uF";"C-EU050-025X075";"C050-025X075";"C1";"CAPACITOR, European symbol";"";"";"";"";"";"";"C";
+"1";"10k";"R-US_0204/7";"0204/7";"R1";"RESISTOR, American symbol";"";"";"";"";"";"";"R";
+"2";"1k";"R-US_0204/7";"0204/7";"R2, R5";"RESISTOR, American symbol";"";"";"";"";"";"";"R";
+"2";"5mm";"LED5MM";"LED5MM";"LED1, LED4";"LED";"";"";"";"";"";"";"";
+"1";"AVR_SPI_PROG_3X2";"AVR_SPI_PROG_3X2NS";"2X3-NS";"J2";"AVR ISP 6 Pin";"";"";"";"";"";"";"";
+"1";"GPIO";"CONN_05SCREW";"SCREWTERMINAL-3.5MM-5";"J1";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";"";"Combine 8288+8399";"";"";
+"1";"PWR";"CONN_023.5MM-NO_SILK";"SCREWTERMINAL-3.5MM-2-NS";"J3";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";"";"CONN-08399";"";"";
+"1";"RST_SW";"MOMENTARY-SWITCH-SPST-PTH-6.0MM";"TACTILE_SWITCH_PTH_6.0MM";"S1";"Momentary Switch (Pushbutton) - SPST";"";"";"";"";" SWCH-08441";"COM-00097";"";
+"1";"TINY13-20PU";"TINY13-20PU";"DIL08";"IC2";"8-bit AVR Microcontroller with 1K Bytes In-System Programmable Flash";"";"ATTINY13-20PU";"9171550";"96K6521";"";"";"";
